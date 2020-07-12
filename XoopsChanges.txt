@@ -1,0 +1,12 @@
+web2ftp module by Bassman (www.bassmanthemes.x8r.com)
+
+Based on the net2ftp script by David @ www.net2ftp.com
+
+Changes for Xoops module:
+
+*modified index.php to include the xoops files mainfile.php, header.php, footer.php
+*removed /Admin folder, CSS files and SQL file. Admin/SQL may be required in a later version.
+*added xoops_version.php file, /language folder and files inside, and logo.gif file. These are required for Xoops module.
+*modified /includes/browse.inc.php and includes/netftp_loginform.inc.php files to remove skin drop-down box. Not needed with Xoops.
+
+Big thanks to David @ www.netftp.com for allowing the use of his script.
